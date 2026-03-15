@@ -7,5 +7,32 @@ format:
     theme: journal
     toc: true
 ---
-# Hello, World!  
-Welcome to my Quarto website.  
+# Welcome
+
+Hello! My name is Natalie Baclawski and this is my personal website created using Quarto.
+
+## About Me
+
+I am currently a graduate student studying Business Analytics and working in the finance industry.
+
+## Skills
+
+- Data Analysis
+- Python
+- SQL
+- Excel Modeling
+- Financial Analysis
+
+## Projects
+
+Here are some projects I am working on:
+
+- Boston Property Value Analysis
+- Northwind SQL Database Analysis
+- Time Series Forecasting in R
+
+## Links
+
+You can view my GitHub profile here:
+
+[My GitHub Profile](https://github.com/nbaclawski)

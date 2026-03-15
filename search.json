@@ -11,6 +11,34 @@
     "href": "index.html",
     "title": "Welcome to My Website",
     "section": "",
-    "text": "Hello, World!\nWelcome to my Quarto website."
+    "text": "Hello! My name is Natalie Baclawski and this is my personal website created using Quarto.\n\n\nI am currently a graduate student studying Business Analytics and working in the finance industry.\n\n\n\n\nData Analysis\nPython\nSQL\nExcel Modeling\nFinancial Analysis\n\n\n\n\nHere are some projects I am working on:\n\nBoston Property Value Analysis\nNorthwind SQL Database Analysis\nTime Series Forecasting in R\n\n\n\n\nYou can view my GitHub profile here:\nMy GitHub Profile"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "I am currently a graduate student studying Business Analytics and working in the finance industry."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Data Analysis\nPython\nSQL\nExcel Modeling\nFinancial Analysis"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Here are some projects I am working on:\n\nBoston Property Value Analysis\nNorthwind SQL Database Analysis\nTime Series Forecasting in R"
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "You can view my GitHub profile here:\nMy GitHub Profile"
   }
 ]
