@@ -1,6 +1,7 @@
 ---
-title: "Welcome to My Website"
-author: "Your Name"
+---
+title: "Natalie Baclawski"
+author: "Natalie Baclawski"
 date: "2026-03-03"
 format:
   html:
