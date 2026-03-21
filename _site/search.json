@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Natalie Baclawski",
+    "section": "",
+    "text": "Hello! My name is Natalie Baclawski and this is my personal website created using Quarto.\n\n\nI am currently a graduate student at BU’s MET College, pursuing a Masters in Business Analytics while working in the finance industry.\n\n\n\n\nData Analysis\nPython\nSQL\nExcel Modeling\nFinancial Analysis\n\n\n\n\nHere are some projects I am/have worked on:\n\nBoston Property Value Analysis\nNorthwind SQL Database Analysis\nTime Series Forecasting in R\n\n\n\n\nYou can view my GitHub profile here:\nMy GitHub Profile\n\n\n\n\nimport pandas as pd\n\ndf = pd.DataFrame({\n    \"Role\": [\"Data Scientist\", \"Analyst\", \"Engineer\"],\n    \"Salary\": [120000, 80000, 100000]\n})\n\ndf\n\n\n\n\n\n\n\n\nRole\nSalary\n\n\n\n\n0\nData Scientist\n120000\n\n\n1\nAnalyst\n80000\n\n\n2\nEngineer\n100000"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Natalie Baclawski",
+    "section": "",
+    "text": "I am currently a graduate student at BU’s MET College, pursuing a Masters in Business Analytics while working in the finance industry."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Natalie Baclawski",
+    "section": "",
+    "text": "Data Analysis\nPython\nSQL\nExcel Modeling\nFinancial Analysis"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Natalie Baclawski",
+    "section": "",
+    "text": "Here are some projects I am/have worked on:\n\nBoston Property Value Analysis\nNorthwind SQL Database Analysis\nTime Series Forecasting in R"
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Natalie Baclawski",
+    "section": "",
+    "text": "You can view my GitHub profile here:\nMy GitHub Profile"
+  },
+  {
+    "objectID": "index.html#sample-python-output",
+    "href": "index.html#sample-python-output",
+    "title": "Natalie Baclawski",
+    "section": "",
+    "text": "import pandas as pd\n\ndf = pd.DataFrame({\n    \"Role\": [\"Data Scientist\", \"Analyst\", \"Engineer\"],\n    \"Salary\": [120000, 80000, 100000]\n})\n\ndf\n\n\n\n\n\n\n\n\nRole\nSalary\n\n\n\n\n0\nData Scientist\n120000\n\n\n1\nAnalyst\n80000\n\n\n2\nEngineer\n100000"
+  }
+]
