@@ -9,8 +9,43 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "nbaclawski.github.io-1",
+    "title": "Natalie Baclawski",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hello! My name is Natalie Baclawski and this is my personal website created using Quarto.\n\n\nI am currently a graduate student at BU’s MET College, pursuing a Masters in Business Analytics while working in the finance industry.\n\n\n\n\nData Analysis\nPython\nSQL\nExcel Modeling\nFinancial Analysis\n\n\n\n\nHere are some projects I am/have worked on:\n\nBoston Property Value Analysis\nNorthwind SQL Database Analysis\nTime Series Forecasting in R\n\n\n\n\nYou can view my GitHub profile here:\nMy GitHub Profile\n\n\n\nimport pandas as pd\ndf = pd.DataFrame({ “Role”: [“Data Scientist”, “Analyst”, “Engineer”], “Salary”: [120000, 80000, 100000] })\ndf"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Natalie Baclawski",
+    "section": "",
+    "text": "I am currently a graduate student at BU’s MET College, pursuing a Masters in Business Analytics while working in the finance industry."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Natalie Baclawski",
+    "section": "",
+    "text": "Data Analysis\nPython\nSQL\nExcel Modeling\nFinancial Analysis"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Natalie Baclawski",
+    "section": "",
+    "text": "Here are some projects I am/have worked on:\n\nBoston Property Value Analysis\nNorthwind SQL Database Analysis\nTime Series Forecasting in R"
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Natalie Baclawski",
+    "section": "",
+    "text": "You can view my GitHub profile here:\nMy GitHub Profile"
+  },
+  {
+    "objectID": "index.html#sample-python-output",
+    "href": "index.html#sample-python-output",
+    "title": "Natalie Baclawski",
+    "section": "",
+    "text": "import pandas as pd\ndf = pd.DataFrame({ “Role”: [“Data Scientist”, “Analyst”, “Engineer”], “Salary”: [120000, 80000, 100000] })\ndf"
   }
 ]
