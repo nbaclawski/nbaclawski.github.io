@@ -4,9 +4,9 @@ author: "Natalie Baclawski"
 date: "2026-03-16"
 format:
   html:
-    theme: journal
     toc: true
 ---
+
 # Welcome
 
 Hello! My name is Natalie Baclawski and this is my personal website created using Quarto.
