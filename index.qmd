@@ -37,7 +37,6 @@ You can view my GitHub profile here:
 
 [My GitHub Profile](https://github.com/nbaclawski)
 
-
 ## Sample Python Output
 
 ```{python}
