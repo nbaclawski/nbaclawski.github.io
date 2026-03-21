@@ -40,6 +40,8 @@ You can view my GitHub profile here:
 ## Sample Python Output
 
 ```{python}
+#| echo: false
+
 import pandas as pd
 
 df = pd.DataFrame({
