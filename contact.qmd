@@ -1,0 +1,11 @@
+---
+title: "Contact"
+---
+
+# Contact
+
+I welcome opportunities to connect regarding analytics, data science, and professional collaboration.
+
+- Email: nataliebaclawski@gmail.com
+- LinkedIn: www.linkedin.com/in/nataliebaclawski
+- GitHub: https://github.com/nbaclawski

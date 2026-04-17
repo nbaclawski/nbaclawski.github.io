@@ -6,9 +6,21 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: "Home"
       - href: about.qmd
-        text: About
+        text: "About"
+      - href: projects.qmd
+        text: "Projects"
+      - href: cv.qmd
+        text: "CV"
+      - href: contact.qmd
+        text: "Contact"
 
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: styles.css
 
-
+execute:
+  echo: false

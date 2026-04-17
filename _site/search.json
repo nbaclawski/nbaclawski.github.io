@@ -1,16 +1,58 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Curriculum Vitae\nMy CV summarizes my academic background, technical skills, and project experience.\nDownload My CV"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Natalie Baclawski",
+    "section": "",
+    "text": "Hello! My name is Natalie Baclawski, and welcome to my portfolio website. This site highlights my academic background, technical projects, and professional interests in data analytics, machine learning, and business problem-solving.\nI created this portfolio to showcase the work I have completed in graduate school and to provide a professional overview of my skills, experience, and career goals.\n\n\nI am currently a graduate student at BU’s MET College, pursuing a Masters in Business Analytics while working in the finance industry.\n\n\n\n\nData Analysis\nPython\nSQL\nExcel Modeling\nFinancial Analysis\n\n\n\n\nHere are some projects I am/have worked on:\n\nBoston Property Value Analysis\nNorthwind SQL Database Analysis\nTime Series Forecasting in R\n\n\n\n\nYou can view my GitHub profile here:\nMy GitHub Profile"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Natalie Baclawski",
+    "section": "",
+    "text": "I am currently a graduate student at BU’s MET College, pursuing a Masters in Business Analytics while working in the finance industry."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Natalie Baclawski",
+    "section": "",
+    "text": "Data Analysis\nPython\nSQL\nExcel Modeling\nFinancial Analysis"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Natalie Baclawski",
+    "section": "",
+    "text": "Here are some projects I am/have worked on:\n\nBoston Property Value Analysis\nNorthwind SQL Database Analysis\nTime Series Forecasting in R"
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Natalie Baclawski",
+    "section": "",
+    "text": "You can view my GitHub profile here:\nMy GitHub Profile"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nI welcome opportunities to connect regarding analytics, data science, and professional collaboration.\n\nEmail: nataliebaclawski@gmail.com\nLinkedIn: www.linkedin.com/in/nataliebaclawski\nGitHub: https://github.com/nbaclawski"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "nbaclawski.github.io-1",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]

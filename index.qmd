@@ -9,7 +9,9 @@ format:
 ---
 # Welcome
 
-Hello! My name is Natalie Baclawski and this is my personal website created using Quarto.
+Hello! My name is Natalie Baclawski, and welcome to my portfolio website. This site highlights my academic background, technical projects, and professional interests in data analytics, machine learning, and business problem-solving.
+
+I created this portfolio to showcase the work I have completed in graduate school and to provide a professional overview of my skills, experience, and career goals.
 
 ## About Me
 

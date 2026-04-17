@@ -1,0 +1,9 @@
+---
+title: "CV"
+---
+
+# Curriculum Vitae
+
+My CV summarizes my academic background, technical skills, and project experience.
+
+[Download My CV](Natalie_Baclawski_CV.pdf)
