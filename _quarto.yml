@@ -1,6 +1,9 @@
 project:
   type: website
 
+execute:
+  enabled: true
+
 website:
   title: "Natalie Baclawski"
   navbar:

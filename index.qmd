@@ -4,9 +4,9 @@ author: "Natalie Baclawski"
 date: "2026-03-16"
 format:
   html:
-    theme: journal
     toc: true
 ---
+
 # Welcome
 
 Hello! My name is Natalie Baclawski, and welcome to my portfolio website. This site highlights my academic background, technical projects, and professional interests in data analytics, machine learning, and business problem-solving.
@@ -38,3 +38,18 @@ Here are some projects I am/have worked on:
 You can view my GitHub profile here:
 
 [My GitHub Profile](https://github.com/nbaclawski)
+
+## Sample Python Output
+
+```{python}
+#| echo: false
+
+import pandas as pd
+
+df = pd.DataFrame({
+    "Role": ["Data Scientist", "Analyst", "Engineer"],
+    "Salary": [120000, 80000, 100000]
+})
+
+df
+```
