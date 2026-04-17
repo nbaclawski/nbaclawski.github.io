@@ -38,18 +38,3 @@ Here are some projects I am/have worked on:
 You can view my GitHub profile here:
 
 [My GitHub Profile](https://github.com/nbaclawski)
-
-## Sample Python Output
-
-```{python}
-#| echo: false
-
-import pandas as pd
-
-df = pd.DataFrame({
-    "Role": ["Data Scientist", "Analyst", "Engineer"],
-    "Salary": [120000, 80000, 100000]
-})
-
-df
-```
