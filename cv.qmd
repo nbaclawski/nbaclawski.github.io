@@ -4,6 +4,6 @@ title: "CV"
 
 # Curriculum Vitae
 
-My CV summarizes my academic background, technical skills, and project experience.
+My CV is inclusive of my resume, which summarizes my academic background, technical skills, and project experience.
 
-[Download My CV](Natalie_Baclawski_CV.pdf)
+[Download my CV](data/Natalie_Baclawski_Resume.pdf)

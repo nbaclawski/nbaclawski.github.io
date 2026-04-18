@@ -1,7 +1,3 @@
----
-title: "Contact"
----
-
 # Contact
 
 I welcome opportunities to connect regarding analytics, data science, and professional collaboration.

@@ -4,7 +4,7 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "Curriculum Vitae\nMy CV summarizes my academic background, technical skills, and project experience.\nDownload My CV"
+    "text": "Curriculum Vitae\nMy CV is inclusive of my resume, which summarizes my academic background, technical skills, and project experience.\nDownload my CV"
   },
   {
     "objectID": "index.html",
@@ -49,10 +49,38 @@
     "text": "Contact\nI welcome opportunities to connect regarding analytics, data science, and professional collaboration.\n\nEmail: nataliebaclawski@gmail.com\nLinkedIn: www.linkedin.com/in/nataliebaclawski\nGitHub: https://github.com/nbaclawski"
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This project explored salary differences across AI and non-AI roles using large-scale job posting data. I cleaned and analyzed the dataset using Python, Spark, and Quarto, then created visualizations to examine salary patterns by industry, region, and work arrangement.\nTools used: Python, PySpark, Quarto, Plotly, Pandas"
+  },
+  {
+    "objectID": "projects.html#ai-salary-disparities-analysis",
+    "href": "projects.html#ai-salary-disparities-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "This project explored salary differences across AI and non-AI roles using large-scale job posting data. I cleaned and analyzed the dataset using Python, Spark, and Quarto, then created visualizations to examine salary patterns by industry, region, and work arrangement.\nTools used: Python, PySpark, Quarto, Plotly, Pandas"
+  },
+  {
+    "objectID": "projects.html#skill-gap-analysis",
+    "href": "projects.html#skill-gap-analysis",
+    "title": "Projects",
+    "section": "Skill Gap Analysis",
+    "text": "Skill Gap Analysis\nThis project compared team skill levels against market-demanded technical skills identified from job posting data. The analysis highlighted strengths in SQL, Python, and data visualization, while identifying cloud computing and NLP as areas for improvement.\nTools used: Python, Pandas, Matplotlib, Seaborn"
+  },
+  {
+    "objectID": "projects.html#add-another-academic-or-personal-project",
+    "href": "projects.html#add-another-academic-or-personal-project",
+    "title": "Projects",
+    "section": "Add Another Academic or Personal Project",
+    "text": "Add Another Academic or Personal Project\nInclude one or two more projects here with: - project goal - methods/tools - key result - optional link or image"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About Me\nI am a graduate student in Applied Data Analytics with interests in data-driven decision-making, machine learning, business analytics, and data visualization. My academic work has focused on analyzing job market trends, building predictive models, and presenting findings through clear visualizations and professional reports.\nMy technical experience includes Python, SQL, Spark, AWS, machine learning, and data visualization tools. I am especially interested in applying analytics to real-world business problems and building projects that connect technical skills with strategic insight.\nMy career goal is to work in a role where I can combine analytical thinking, technical tools, and business communication to support data-informed decisions. I currently work at a financial institution, as a financial analyst!"
+    "text": "About Me\nI am a graduate student in Applied Data Analytics with interests in data-driven decision-making, machine learning, business analytics, and data visualization. My academic work has focused on analyzing job market trends, building predictive models, and presenting findings through clear visualizations and professional reports.\nMy technical experience includes Python, SQL, Spark, AWS, machine learning, and data visualization tools. I am especially interested in applying analytics to real-world business problems and building projects that connect technical skills with strategic insight.\nMy career goal is to work in a role where I can combine analytical thinking, technical tools, and business communication to support data-informed decisions. I currently work at a financial institution, as a financial"
   }
 ]

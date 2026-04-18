@@ -1,0 +1,24 @@
+---
+title: "Projects"
+---
+
+## AI Salary Disparities Analysis
+This project explored salary differences across AI and non-AI roles using large-scale job posting data. I cleaned and analyzed the dataset using Python, Spark, and Quarto, then created visualizations to examine salary patterns by industry, region, and work arrangement.
+
+**Tools used:** Python, PySpark, Quarto, Plotly, Pandas
+
+---
+
+## Skill Gap Analysis
+This project compared team skill levels against market-demanded technical skills identified from job posting data. The analysis highlighted strengths in SQL, Python, and data visualization, while identifying cloud computing and NLP as areas for improvement.
+
+**Tools used:** Python, Pandas, Matplotlib, Seaborn
+
+---
+
+## Add Another Academic or Personal Project
+Include one or two more projects here with:
+- project goal
+- methods/tools
+- key result
+- optional link or image
