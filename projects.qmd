@@ -13,6 +13,6 @@ This project explored salary differences across AI and non-AI roles using large-
 
 This project analyzed New York City real estate data to identify pricing trends, neighborhood-level differences, and key drivers of property value. The analysis combined SQL-based data extraction, Python for data cleaning and feature engineering, and Power BI for interactive visualization. Key insights included variations in pricing across boroughs, the impact of property characteristics on valuation, and patterns in market demand.
 
-Tools used: Python, SQL, Power BI
+**Tools used:** Python, SQL, Power BI
 
 ---
