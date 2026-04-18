@@ -5,4 +5,4 @@ I am a graduate student in Applied Data Analytics with interests in data-driven 
 
 My technical experience includes Python, SQL, Spark, AWS, machine learning, and data visualization tools. I am especially interested in applying analytics to real-world business problems and building projects that connect technical skills with strategic insight.
 
-My career goal is to work in a role where I can combine analytical thinking, technical tools, and business communication to support data-informed decisions. I currently work at a financial institution, as a financial
+My career goal is to work in a role where I can combine analytical thinking, technical tools, and business communication to support data-informed decisions. I currently work at a financial institution, as a financial analyst. 
